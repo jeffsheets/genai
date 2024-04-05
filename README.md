@@ -1,5 +1,7 @@
 # Getting Started
 
+See the blog post at [https://sheetsj.com/blog/calling-openai-gpt-4-from-kotlin-with-spring-ai/](https://sheetsj.com/blog/calling-openai-gpt-4-from-kotlin-with-spring-ai/)
+
 This is a Proof of Concept to call GenAI LLM's from Spring Boot using Spring-AI.
 
 It is currently configured to call OpenAI GTP-4.
